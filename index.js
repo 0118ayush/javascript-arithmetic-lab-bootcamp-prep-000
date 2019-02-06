@@ -32,3 +32,4 @@ function preserveDecimal(a){
   return parseFloat(a);
 }
 
+preserveDecimal(2.222)
